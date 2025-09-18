@@ -58,3 +58,10 @@ layout: default
 
 　　希望这份指南能让你在博茨瓦纳的旅程始终在线。毕竟，能随时分享遇到的每一只大象、每一片落日，本身就是旅行乐趣的一部分。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Botswana SIM 卡购买与激活指南](https://faciylike.github.io/botswana-sim-guides)
